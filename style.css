@@ -1,0 +1,43 @@
+.body_backgorund {
+    background-image: url("hd.webp");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+    
+  }
+  #font{
+    font-family: 'Akaya Kanadaka', cursive;
+  }
+  #h1{
+    font-family: 'Akaya Kanadaka', cursive;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color:white;
+    border: none;
+    color: grey;
+    padding: 10px 42px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  button:hover{
+	background-color: li;
+}
+#button:hover{
+	background-color: whitesmoke;
+	width: 550px;
+}
